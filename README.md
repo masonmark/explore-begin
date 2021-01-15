@@ -1,2 +1,0 @@
-# explore-begin
-Begin app
